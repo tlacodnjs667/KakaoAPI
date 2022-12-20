@@ -1,0 +1,5 @@
+.env
+./services
+./controllers
+./.vscode
+./models

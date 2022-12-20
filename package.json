@@ -1,0 +1,33 @@
+{
+  "name": "kakaoapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlacodnjs667/KakaoAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlacodnjs667/KakaoAPI/issues"
+  },
+  "homepage": "https://github.com/tlacodnjs667/KakaoAPI#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "cors": "^2.8.5",
+    "dbmate": "^1.0.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20",
+    "nunjucks": "^3.2.3",
+    "qs": "^6.11.0",
+    "session": "^0.1.0",
+    "typeorm": "^0.3.10"
+  }
+}
